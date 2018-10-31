@@ -102,7 +102,6 @@
                     </execution>
                 </executions>
         </plugin>
-            
         </plugins>
         <resources>
             <resource>
