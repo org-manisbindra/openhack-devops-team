@@ -8,6 +8,7 @@ The underlying library integrating swagger to SpringBoot is [springfox](https://
 
 
 
+
 Start your server as an simple java application.
 
 You can view the api documentation in swagger-ui by pointing to
